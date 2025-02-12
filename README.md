@@ -21,3 +21,24 @@ To get started, open a terminal or command prompt and run:
 ```bash
 git clone https://github.com/your-username/auto-image-enhancer.git
 cd auto-image-enhancer
+
+## How to Use
+### 1️⃣ Open the Application  
+- Run `python main.py` to start the program.
+- The main window titled **"Auto Image Enhancer"** will appear.
+
+### 2️⃣ Select an Image  
+- Click the **"Select Image"** button.
+- Choose an image file (`.jpg`, `.png`, `.jpeg`) from your computer.
+- A **loading bar** will appear while the image is being processed.
+
+### 3️⃣ View the Enhanced Image  
+- Once processing is done, a **side-by-side comparison** of the original and enhanced image will be displayed.
+- The images will be resized to fit the screen while maintaining their aspect ratio.
+
+### 4️⃣ Save the Enhanced Image  
+- Click the **"Save Image"** button to store the enhanced image.
+- A window will open, allowing you to choose the save location and file format (`.jpg` or `.png`).
+
+### 5️⃣ Exit the Application  
+- Click **"Close"** to exit the application.
