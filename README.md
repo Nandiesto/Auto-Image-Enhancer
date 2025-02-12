@@ -22,7 +22,9 @@ To get started, open a terminal or command prompt and run:
 git clone https://github.com/your-username/auto-image-enhancer.git
 cd auto-image-enhancer
 
-## How to Use
+---
+
+### How to Use
 ### 1️⃣ Open the Application  
 - Run `python main.py` to start the program.
 - The main window titled **"Auto Image Enhancer"** will appear.
