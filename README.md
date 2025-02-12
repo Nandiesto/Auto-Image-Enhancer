@@ -21,6 +21,7 @@ To get started, open a terminal or command prompt and run:
 ```bash
 git clone https://github.com/your-username/auto-image-enhancer.git
 cd auto-image-enhancer
+```
 
 ---
 
