@@ -19,7 +19,7 @@ Auto Image Enhancer is a simple GUI-based application built with Python and Open
 ### Clone the Repository
 To get started, open a terminal or command prompt and run:
 ```bash
-git clone https://github.com/your-username/auto-image-enhancer.git
+git clone https://github.com/Nandiesto/auto-image-enhancer.git
 cd auto-image-enhancer
 ```
 
